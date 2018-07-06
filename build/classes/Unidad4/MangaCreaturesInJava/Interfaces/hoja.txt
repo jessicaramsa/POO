@@ -1,0 +1,5 @@
+5; Fantasy; [man,skeleton,weapon,standing]
+265; Bird Creature; [eagle, beak, wings, tail, flying, soaring]
+7; Fantasy; [dwarf, beard, angry, fighter, runnig]
+105; Mythology; [tiger, stripes, teeth, angry, stand]
+230; Alien; [spider, frown, angry, sinister, crawling]
